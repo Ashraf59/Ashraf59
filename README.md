@@ -2,7 +2,7 @@
 <img align="right" alt="Coding"  src="https://i.ibb.co/MBqQXmF/Purple-Modern-Business-Linked-In-Banner.png" />
 
 <h1 align="center">Hi 👋, I'm Md. Ashraf Ali</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Front-End Developer || React JS Developer || MERN Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashraf59&label=Profile%20views&color=0e75b6&style=flat" alt="ashraf59" /> </p>
